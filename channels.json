@@ -1,14 +1,30 @@
 [
   {
     "id": "1",
-    "name": "R-PLUS Gold Action",
+    "name": "R-PLUS Global Action News",
     "logoUrl": "https://picsum.photos",
-    "streamUrl": "https://unified-streaming.com"
+    "streamUrl": "https://unified-streaming.com",
+    "category": "Live TV"
   },
   {
     "id": "2",
-    "name": "R-PLUS News 24/7",
+    "name": "DW News English Live",
     "logoUrl": "https://picsum.photos",
-    "streamUrl": "https://unified-streaming.com"
+    "streamUrl": "https://akamaized.net",
+    "category": "Live TV"
+  },
+  {
+    "id": "3",
+    "name": "Sita Sings the Blues (Feature Film)",
+    "logoUrl": "https://picsum.photos",
+    "streamUrl": "https://archive.org",
+    "category": "Movies"
+  },
+  {
+    "id": "4",
+    "name": "Cosmos: The Dynamic Universe",
+    "logoUrl": "https://picsum.photos",
+    "streamUrl": "https://unified-streaming.com",
+    "category": "Series"
   }
 ]
