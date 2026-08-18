@@ -1,28 +1,35 @@
 [
   {
     "id": "1",
-    "name": "R-PLUS Global Action News",
+    "name": "R-PLUS Gold Action Live",
     "logoUrl": "https://picsum.photos",
     "streamUrl": "https://unified-streaming.com",
     "category": "Live TV"
   },
   {
     "id": "2",
-    "name": "DW News English Live",
+    "name": "DW International Live Feed",
     "logoUrl": "https://picsum.photos",
     "streamUrl": "https://akamaized.net",
     "category": "Live TV"
   },
   {
     "id": "3",
-    "name": "Sita Sings the Blues (Feature Film)",
+    "name": "Sita Sings Cinema (Feature)",
     "logoUrl": "https://picsum.photos",
     "streamUrl": "https://archive.org",
     "category": "Movies"
   },
   {
     "id": "4",
-    "name": "Cosmos: The Dynamic Universe",
+    "name": "Tears of Steel Ultra HD",
+    "logoUrl": "https://picsum.photos",
+    "streamUrl": "https://unified-streaming.com",
+    "category": "Movies"
+  },
+  {
+    "id": "5",
+    "name": "Cosmos Series Ep. 1",
     "logoUrl": "https://picsum.photos",
     "streamUrl": "https://unified-streaming.com",
     "category": "Series"
